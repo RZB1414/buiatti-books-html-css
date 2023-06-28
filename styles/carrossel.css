@@ -59,6 +59,7 @@
 
 .descricao__texto {
     font-size: 14px;
+    justify-content: flex-start;
 }
 
 .botoes__item {
@@ -74,8 +75,8 @@
 }
 
 .descricao__imagem-mozao {
-    width: 161px;
-    height: 166px;
+    width: 188px;
+    height: 188px;
     top: -24px;
     left: 187px;
 }
